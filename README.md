@@ -12,7 +12,7 @@ Quantitative portfolio manager with 9 years of buy-side experience — now build
 
 ### Featured work
 
-- [quant-allocation-lab](https://github.com/doufucheng/quant-allocation-lab) — 16 production-tested quant models for China markets: risk-parity allocation, style rotation, market timing
+- [quant-allocation-lab](https://github.com/doufucheng/quant-allocation-lab) — 22 production-tested quant models for China markets: risk-parity allocation, modular tactical-allocation legs (momentum / canary / dual-momentum / econ-cycle / rate-inflation / valuation), style rotation, market timing
 
 ### Background
 
