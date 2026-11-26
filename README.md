@@ -14,6 +14,13 @@ Quantitative portfolio manager with 9 years of buy-side experience — now build
 
 - [quant-allocation-lab](https://github.com/doufucheng/quant-allocation-lab) — 22 production-tested quant models for China markets: risk-parity allocation, modular tactical-allocation legs (momentum / canary / dual-momentum / econ-cycle / rate-inflation / valuation), style rotation, market timing
 
+### Writing
+
+Long-form investing content for Chinese retail investors — plain-language asset allocation, dividend & low-volatility investing, and quant ideas behind them:
+
+- **Xueqiu (雪球)** — [@极简投资人](https://xueqiu.com/u/3529405310) · 95+ original posts on all-weather portfolios, dividend timing and multi-asset ideas (as of Nov 2026)
+- **Zhihu (知乎)** — [@doufuchucheng](https://www.zhihu.com/people/doufuchucheng) · high-upvote long-form answers on index investing and asset allocation
+
 ### Background
 
 Peking University — M.Eng. Computer Technology · B.Sc. Physics + B.Sc. Computer Science (double degree)
