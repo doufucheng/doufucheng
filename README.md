@@ -19,7 +19,6 @@ Quantitative portfolio manager with 9 years of buy-side experience at a Chinese 
 Long-form investing content for Chinese retail investors — plain-language asset allocation, dividend & low-volatility investing, and quant ideas behind them:
 
 - **Xueqiu (雪球)** — [@极简投资人](https://xueqiu.com/u/3529405310) · 95+ original posts on all-weather portfolios, dividend timing and multi-asset ideas (as of Nov 2026)
-- **Zhihu (知乎)** — [@doufuchucheng](https://www.zhihu.com/people/doufuchucheng) · high-upvote long-form answers on index investing and asset allocation
 
 ### Background
 
