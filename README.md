@@ -1,6 +1,6 @@
-## Fucheng Dou
+## Portfolio Manager · Index & Multi-Asset
 
-Quantitative portfolio manager with 9 years of buy-side experience — now building AI-engineered investment workflows.
+Quantitative portfolio manager with 9 years of buy-side experience at a Chinese public mutual fund company — now building AI-engineered investment workflows.
 
 **Currently:** Fund manager, index & multi-asset investment · Shenzhen, China
 
